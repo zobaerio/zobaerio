@@ -126,29 +126,39 @@ My goal is to combine **Artificial Intelligence** with **Engineering** to create
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/zobaerio">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://img.shields.io/badge/GitHub-zobaerio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/zobaerio">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<a href="https://www.linkedin.com/in/zobaerio">
+<img src="https://img.shields.io/badge/LinkedIn-zobaerio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/zobaerio">
-<img src="https://skillicons.dev/icons?i=facebook" height="55"/>
+<a href="https://www.facebook.com/zobaerio">
+<img src="https://img.shields.io/badge/Facebook-zobaerio-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/zobaerio">
-<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+<a href="https://www.instagram.com/zobaerio">
+<img src="https://img.shields.io/badge/Instagram-zobaerio-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+<a href="https://t.me/zobaerio">
+<img src="https://img.shields.io/badge/Telegram-zobaerio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/8801832313998">
+<img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/WeChat-zobaerio-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
 
 <a href="mailto:zobaerio24@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Email-zobaerio24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
