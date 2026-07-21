@@ -56,8 +56,12 @@ Building AI-powered digital products, engineering solutions, and modern web appl
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
 
-<a href="https://www.facebook.com/zobaer.io">
+<a href="https://www.facebook.com/zobaerio">
 <img src="https://skillicons.dev/icons?i=facebook" height="48"/>
+</a>
+
+<a href="https://www.instagram.com/zobaerio">
+<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
 </a>
 
 <a href="https://www.linkedin.com/in/zobaerio">
@@ -149,9 +153,11 @@ Building AI-powered digital products, engineering solutions, and modern web appl
 
 # 📫 Contact Me
 
-📧 Email: **hello@zobaer.io**
+📧 Email: **zobaerio24@gmail.com**
 
-🌐 Facebook: **https://www.facebook.com/zobaer.io**
+🌐 Facebook: **https://www.facebook.com/zobaerio**
+
+🌀 Instagram: **https://www.instagram.com/zobaerio**
 
 💻 GitHub: **https://github.com/zobaerio**
 
